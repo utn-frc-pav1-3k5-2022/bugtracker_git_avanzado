@@ -14,6 +14,7 @@ namespace BugTracker
     {
         public frmPrincipal()
         {
+            // Formario Principal BugTracker
             InitializeComponent();
         }
 
