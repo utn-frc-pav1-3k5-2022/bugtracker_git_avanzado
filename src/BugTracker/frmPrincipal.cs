@@ -44,7 +44,7 @@ namespace BugTracker
 
         private void ayudaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Necesita Ayuda?", "Confirmación", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            MessageBox.Show("¿Necesita Ayuda?", "Confirmación", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
         }
     }
 }
