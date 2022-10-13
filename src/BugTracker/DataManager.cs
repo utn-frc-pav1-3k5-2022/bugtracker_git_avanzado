@@ -11,6 +11,7 @@ public class DataManager
     public DataManager()
     {
         // Cadena de conexión a BugTracker
+        // Comentario feature 01
         string_conexion = "Data Source=.\\SQLEXPRESS;Initial Catalog=BugTracker;Integrated Security=true;";
     }
 
